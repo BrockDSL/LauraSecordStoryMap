@@ -1,4 +1,4 @@
-![StoryMaps](/assets/images/storymapslogo.png)
+![StoryMaps](/assets/images/storymaplogo.png)
 
 
 # Getting Started with ArcGIS StoryMaps
