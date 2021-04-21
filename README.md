@@ -7,7 +7,7 @@
 
 The following video outlines the steps necessary for signing into ArcGIS Online using your Brock credentials. Please watch the first minute to accomplish this step. The second minute talks about downloading ArcGIS Pro (desktop).
 
-[Signing into ArcGIS Online](https://youtu.be/GqH4UHTUf2s)  
+[Signing into ArcGIS Online](https://youtu.be/GqH4UHTUf2s) (watch the first minute) 
 Go to [https://arcgis.com](https://arcgis.com) and sign in.  
 
 ### Accessing ArcGIS StoryMaps  
