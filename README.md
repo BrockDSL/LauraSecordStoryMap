@@ -1,7 +1,7 @@
 ![Tool Logo][imglogo]
 
 
-# Getting Started…
+# Getting Started with ArcGIS StoryMaps
 
 ### Signing into ArcGIS Online using your Brock credentials
 
@@ -10,6 +10,7 @@ The following video outlines the steps necessary for signing into ArcGIS Online 
 1. [Signing into ArcGIS Online](https://youtu.be/GqH4UHTUf2s) (watch the first minute)   
 2. Go to [https://arcgis.com](https://arcgis.com) and sign in.  
 
+  
 ### Accessing ArcGIS StoryMaps  
 
 ArcGIS StoryMaps is a web platform that allows you to combine interactive maps, images, charts, videos and narrative text for a unique and compelling display of your research or ‘story’. This repository includes tutorials and assets for creating a storymap about Laura Secord, heroine of the Battle of Beaverdams.  
