@@ -1,4 +1,4 @@
-![Tool Logo][imglogo]
+![StoryMaps][storymapslogo.png]
 
 
 # Getting Started with ArcGIS StoryMaps
